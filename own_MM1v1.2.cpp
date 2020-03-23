@@ -3,7 +3,7 @@
 //
 // Created by Tobias Lettenmeier on 13.01.16.
 // Copyright © 2016 Tobias Lettenmeier. All rights reserved.
-// Contact: pudding[AT]posteo[DOT]de
+// Contact: pudding[AT]mailbox[DOT]org
 
 
 #include <math.h>
