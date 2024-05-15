@@ -1,9 +1,11 @@
 
 // own_MM1v1.2.cpp
 //
+// This is a Simulation of a MM1-Client-Server-Queue
+
 // Created by Tobias Lettenmeier on 13.01.16.
 // Copyright © 2016 Tobias Lettenmeier. All rights reserved.
-// Contact: pudding[AT]mailbox[DOT]org
+// Contact: tobias.lettenmeier[AT]mailbox[DOT]org
 
 
 #include <math.h>
